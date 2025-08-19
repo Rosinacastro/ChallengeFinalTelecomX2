@@ -16,11 +16,6 @@ Telecom-X-Previsao-Churn/
 │ ├── TelecomX_Data.json # Base de dados original
 │ ├── dados_tratados.csv # Dados limpos e tratados
 │
-├── 📁 visuals/
-│ ├── correlacao_matriz.png # Matriz de correlação
-│ ├── scatter_tenure_gasto.png # Dispersão: Gasto x Tempo de Contrato
-│ └── boxplot_charges.png # Boxplot: Charges x Churn
-│
 ├── 📄 ChallengeFinal_TelecomX_BR2_(2).ipynb # Notebook principal com análise completa
 ├── 📄 README.md # Este arquivo
 
